@@ -1,4 +1,4 @@
-# Testing Chat App using Socket.io, PeerJS, UUID, and Nodemon
+# Testing Video Chat App using Socket.io, PeerJS, UUID, and Nodemon
 
 This is a simple chat app built for testing purposes. It uses the Socket.io, PeerJS, UUID, and Nodemon libraries to enable real-time communication between multiple clients. The app is built with HTML, CSS, and JavaScript and utilizes the Socket.io library to enable real-time, bidirectional, and event-based communication between the browser and the server.
 
